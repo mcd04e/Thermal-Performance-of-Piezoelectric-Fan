@@ -1,2 +1,3 @@
 # Thermal-Performance-of-Piezoelectric-Fan
 Thermal dissipation of a CPU cooled using a PZ fan in various utilization quantities and a burn in test.
+This paper will discuss an alternative technology, the solid-state piezoelectric (PZ) fan, and how it compares to the rotary fan in efficiency of thermal dispersion in the modern desktop computer. Furthermore, this paper will discuss the results of a proof-of-concept (POC) build and recorded thermal datapoints from both rotary and PZ fans on the CPU of the POC desktop. The results from this POC will be used to discuss future research needed to make solid state (PZ) computer cooling fans commercially viable.
